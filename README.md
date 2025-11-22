@@ -1,4 +1,4 @@
-# uiux6# UI-UX-Experiment6
+UI-UX-Experiment6
 
 ## Aim:
 To practice solution ideation, user story creation, scenario development, flow mapping, and information architecture design to improve user experience through structured UX design activities.
